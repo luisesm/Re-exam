@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['spoon']
+
+roboflow:
+  workspace: fork-ye21u
+  project: fork-l3gs8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fork-ye21u/fork-l3gs8/dataset/1
